@@ -1,0 +1,15 @@
+body{
+    text-align:center;
+    background-color: aquamarine;
+}
+
+#titlearea{
+    background-color:grey ;
+    color:white;
+
+}
+
+#feet{
+    width:300px;
+    height:300px;
+}
